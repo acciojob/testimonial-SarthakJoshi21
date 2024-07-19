@@ -17,11 +17,6 @@ section{
 }
 p{
 	text-align:right;
-	font-weight:bold;
 	font-size:auto;
 	font-style:italic;
-}
-.test{
-	margin:15px;
-	padding:1px;
 }
