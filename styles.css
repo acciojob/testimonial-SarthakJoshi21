@@ -10,15 +10,16 @@ section{
 	width:90%;
 }
 .first{
-	border:0 solid black;
+	border:1px solid black;
 	padding:15px;
-	background-color:white;
+	background-color:#f5f5f5;
 	margin:10px;
 }
 p{
 	text-align:right;
 	text-decoration:bold;
 	font-size:auto;
+	font-style:italic;
 }
 .test{
 	margin:15px;
